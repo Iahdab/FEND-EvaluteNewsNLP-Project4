@@ -11,7 +11,7 @@
    - [CloningRepo](#CloningRepo)
    - [SetUpProject](#SetUpProject)
    - [RunningProject](#RunningProject)
-   - [Depeondency](#Depeondency)
+   - [Dependencies](#Dependencies)
 - [Deploying](#Deploying)
 
 ## Overview
@@ -83,7 +83,7 @@ Following are the project prerequisites:
         - ``` npm test ```
    - *Lastly run the project on http://localhost:8080/ or http://127.0.0.1:8080 on web-broswer*
 
- ### Depeondency 
+ ### Dependencies 
  
   - **Depeondency used in project "Package.Json" :**
     babel, babel loader, css loader, file loader, html loader, html webpack plugin,
