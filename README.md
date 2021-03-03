@@ -42,9 +42,11 @@ Following are the project prerequisites:
        - **JS Folder**
          - formhandler.js
          - **Test Folder**
+           - all tests are in this folder
        - **View Folder**
          - index.html
        - **Style Folder**
+         - all SCSS styles are in this folder
      - **Server Folder**
        - index.js 
  
@@ -59,9 +61,9 @@ Following are the project prerequisites:
 
  ### SetUpProject
  
- - **in terminal/vs code install these dependncey**
+ - **In terminal/vs code install these dependncey**
      - ``` npm install ```
- - **in project you must have Key from [MeaningCloud](https://www.meaningcloud.com/) for the project to run**
+ - **In project you must have Key from [MeaningCloud](https://www.meaningcloud.com/) for the project to run**
      - in my project i used a .env file and add the key and installed  
          - ``` npm install dotenv ```
      - in .env file add your Meaning Cloud API KEy as : 
