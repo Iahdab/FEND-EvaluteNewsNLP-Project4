@@ -29,15 +29,11 @@ Following are the project prerequisites:
  - Download as zip file 
  - clone 
 
-**clone in Terminal**\
-```
-`git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` 
-```
+**clone in Terminal**
+``` `git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` ```
 
 **clone in VS code command palatte**\
-```
->Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git
-```
+```sh >Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git ```
 
  ### SetUpProject
  **1- in terminal/vs code install these dependncey**
