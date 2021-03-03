@@ -3,17 +3,19 @@
 ***4th Project for [UDACITY](UDACITY.com) NanoDegree*** 
 
 ## Table of Contents
-- [Overview](#instructions)
+
+- [Overview](#Overview)
 - [GettingStarted](#GettingStarted)
-- - [Functionality](#Functionality)
-- - [File](#File)
-- - [CloningRepo](#CloningRepo)
-- - [SetUpProject](#SetUpProject)
-- - [RunningProject](#RunningProject)
-- - [Depeondency](#Depeondency)
+   - [Functionality](#Functionality)
+   - [File](#File)
+   - [CloningRepo](#CloningRepo)
+   - [SetUpProject](#SetUpProject)
+   - [RunningProject](#RunningProject)
+   - [Depeondency](#Depeondency)
 - [Deploying](#Deploying)
 
 ## Overview
+
 build a web tool that allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites. NLP is the ability of an application to understand the human language, written or oral.
 Following are the project prerequisites:
 - Webserver - Node
@@ -25,16 +27,20 @@ Following are the project prerequisites:
 ## GettingStarted
 
  ### Functionality
+ 
  ### File
+ 
  ### CloningRepo
+ 
   - **Clone In Terminal:**\
-    ```git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
+    ```git clone https://github.com/Iahdab/Fend-Evalute-Nlp-project4.git```
      OR
   - **Clone In VS code Command Palatte:**\
-    ```>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
+    ```>Git: Colne  https://github.com/Iahdab/Fend-Evalute-Nlp-project4.git```
   - ***NOTE: also you can fetch or Download as zip file.***
 
  ### SetUpProject
+ 
  **1- in terminal/vs code install these dependncey**\
   ``` npm install ```
   
@@ -44,6 +50,7 @@ Following are the project prerequisites:
     ``` API_KEY=************************** ``` 
  
  ### RunningProject
+ 
  1- in terminal/vs code to run the project open 3 terminals  
  - terminal 1: to start \
    ``` npm start ```
