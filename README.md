@@ -52,21 +52,13 @@ Following are the project prerequisites:
  ### RunningProject
  1- in terminal/vs code to run the project open 3 terminals  
  - terminal 1: to start 
-   ```
-   npm start
-   ```
+   ``` npm start ```
  - terminal 2:to run in devlopment mode
-   ```
-   npm run build-dev
-   ```
+   ``` npm run build-dev ```
  - terminal 3: to run in prodaction mode (to build dist folder)
-   ```
-   npm run build-prod
-   ```
+   ``` npm run build-prod ```
  - terminal 4 (optional): to run test
-    ```
-    npm test
-    ```
+    ``` npm test ```
  2- Lastly run the project on http://localhost:8080/ on web-broswer 
 
  ### Depeondency 
