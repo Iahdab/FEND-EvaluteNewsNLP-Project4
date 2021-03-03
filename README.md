@@ -1,5 +1,6 @@
 
-# Project Evaluate news NLP UDACITY.com NanoDegree
+# Project Evaluate News NLP 
+***4th Project for [UDACITY](UDACITY.com) NanoDegree*** 
 
 ## Table of Contents
 - [Overview](#instructions)
