@@ -26,6 +26,7 @@ Following are the project prerequisites:
  ### File
  ### CloningRepo
  - fork 
+ - Download as zip file 
  - clone 
 
 **clone in Terminal**
@@ -33,7 +34,7 @@ Following are the project prerequisites:
 `git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` 
 ```
 
-**clone in VS code command palatte  **
+**clone in VS code command palatte**
 ```
 >Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git
 ```
@@ -44,7 +45,9 @@ Following are the project prerequisites:
   npm install 
   ```
   **2- in project you must have [meaning cloud Key] (https://www.meaningcloud.com/)for the project to run**/
- in my project i used a .env file and add the key and installed  ```npm install dotenv```/
+   - in my project i used a .env file and add the key and installed  ```npm install dotenv```/
+   - in .env file add your Meaning Cloud API KEy as : 
+    ``` API_KEY=************************** ``` 
  
  ### RunningProject
  1- in terminal/vs code to run the project open 3 terminals  
