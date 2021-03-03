@@ -27,12 +27,12 @@ Following are the project prerequisites:
  ### Functionality
  ### File
  ### CloningRepo
-  - ** Clone In Terminal:**\
+  - **Clone In Terminal:**\
     ```git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
      OR
-  - ** Clone In VS code Command Palatte:**\
+  - **Clone In VS code Command Palatte:**\
     ```>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
-       NOTE: also you can fetch or Download as zip file 
+  - ***NOTE: also you can fetch or Download as zip file.***
 
  ### SetUpProject
  **1- in terminal/vs code install these dependncey**\
