@@ -30,6 +30,24 @@ Following are the project prerequisites:
  
  ### File
  
+   - package-lock.json
+   - package.json
+   - webpack.dev.js
+   - webpack.prod.js
+   - .babelrc
+   - .gitignore
+   - **SRC Folder**
+     - **Client Folder**
+       - index.js
+       - **JS Folder**
+         - formhandler.js
+         - **Test Folder**
+       - **View Folder**
+         - index.html
+       - **Style Folder**
+     - **Server Folder**
+       - index.js 
+ 
  ### CloningRepo
  
   - **Clone In Terminal:**\
