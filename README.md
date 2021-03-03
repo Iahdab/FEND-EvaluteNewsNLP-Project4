@@ -61,7 +61,7 @@ Following are the project prerequisites:
         - ``` npm run build-prod ```
       - Terminal 4(optional): to run test
         - ``` npm test ```
-   - *Lastly run the project on http://localhost:8080/ or http://127.0.0.1:8080 on web-broswer *
+   - *Lastly run the project on http://localhost:8080/ or http://127.0.0.1:8080 on web-broswer*
 
  ### Depeondency 
  
