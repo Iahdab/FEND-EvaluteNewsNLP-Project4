@@ -29,12 +29,12 @@ Following are the project prerequisites:
  - Download as zip file 
  - clone 
 
-**clone in Terminal**
+**clone in Terminal**\
 ```
 `git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` 
 ```
 
-**clone in VS code command palatte**
+**clone in VS code command palatte**\
 ```
 >Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git
 ```
@@ -45,19 +45,19 @@ Following are the project prerequisites:
   npm install 
   ```
   **2- in project you must have [meaning cloud Key] (https://www.meaningcloud.com/)for the project to run**/
-   - in my project i used a .env file and add the key and installed  ```npm install dotenv```/
+   - in my project i used a .env file and add the key and installed  ```npm install dotenv```
    - in .env file add your Meaning Cloud API KEy as : 
     ``` API_KEY=************************** ``` 
  
  ### RunningProject
  1- in terminal/vs code to run the project open 3 terminals  
- - terminal 1: to start 
+ - terminal 1: to start \
    ``` npm start ```
- - terminal 2:to run in devlopment mode
+ - terminal 2:to run in devlopment mode\
    ``` npm run build-dev ```
- - terminal 3: to run in prodaction mode (to build dist folder)
+ - terminal 3: to run in prodaction mode (to build dist folder)\
    ``` npm run build-prod ```
- - terminal 4 (optional): to run test
+ - terminal 4 (optional): to run test\
     ``` npm test ```
  2- Lastly run the project on http://localhost:8080/ on web-broswer 
 
