@@ -1,5 +1,6 @@
 
-# Project Evaluate news NLP
+# Project Evaluate news NLP UDACITY.com NanoDegree
+
 ## Table of Contents
 - [Overview](#instructions)
 - [GettingStarted](#GettingStarted)
@@ -29,19 +30,19 @@ Following are the project prerequisites:
  - Download as zip file 
  - clone 
 
-**clone in Terminal**
+**clone in Terminal**\
 ``` `git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` ```
 
 **clone in VS code command palatte**\
-```sh >Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git ```
+```>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git ```
+
 
  ### SetUpProject
- **1- in terminal/vs code install these dependncey**
-  ```
-  npm install 
-  ```
-  **2- in project you must have [meaning cloud Key] (https://www.meaningcloud.com/)for the project to run**/
-   - in my project i used a .env file and add the key and installed  ```npm install dotenv```
+ **1- in terminal/vs code install these dependncey**\
+  ``` npm install ```
+  
+ **2- in project you must have [meaning cloud Key] (https://www.meaningcloud.com/)for the project to run**/
+   - in my project i used a .env file and add the key and installed  ``` npm install dotenv ```
    - in .env file add your Meaning Cloud API KEy as : 
     ``` API_KEY=************************** ``` 
  
