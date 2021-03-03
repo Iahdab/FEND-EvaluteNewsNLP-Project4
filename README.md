@@ -41,32 +41,33 @@ Following are the project prerequisites:
 
  ### SetUpProject
  
- **1- in terminal/vs code install these dependncey**\
-  ``` npm install ```
-  
- **2- in project you must have Key from [MeaningCloud](https://www.meaningcloud.com/) for the project to run**
-   - in my project i used a .env file and add the key and installed  ``` npm install dotenv ```
-   - in .env file add your Meaning Cloud API KEy as : 
-    ``` API_KEY=************************** ``` 
+ - **in terminal/vs code install these dependncey**
+    - ``` npm install ```
+ - **in project you must have Key from [MeaningCloud](https://www.meaningcloud.com/) for the project to run**
+    - in my project i used a .env file and add the key and installed  
+      - ``` npm install dotenv ```
+    - in .env file add your Meaning Cloud API KEy as : 
+      - ``` API_KEY=************************** ``` 
  
  ### RunningProject
  
- 1- in terminal/vs code to run the project open 3 terminals  
- - terminal 1: to start \
-   ``` npm start ```
- - terminal 2:to run in devlopment mode\
-   ``` npm run build-dev ```
- - terminal 3: to run in prodaction mode (to build dist folder)\
-   ``` npm run build-prod ```
- - terminal 4 (optional): to run test\
-    ``` npm test ```
- 2- Lastly run the project on http://localhost:8080/  or http://127.0.0.1:8080 on web-broswer 
+ - **To run the Project:**
+   - *Open 3 Terminal in VS code:*
+      - Terminal 1: to start
+        -``` npm start ```
+      - Terminal 2:to run in devlopment mode
+        -``` npm run build-dev ```
+      - Terminal 3: to run in prodaction mode (to build dist folder)
+        -``` npm run build-prod ```
+      - Terminal 4(optional): to run test
+        -``` npm test ```
+   - *Lastly run the project on http://localhost:8080/ or http://127.0.0.1:8080 on web-broswer *
 
  ### Depeondency 
  
- **Depeondency used in project "Package.Json" :**
- babel, babel loader, css loader, file loader, html loader, html webpack plugin,
- node sass, sass loader, style loader, webpack, webpack cli, and webpack dev server
+  - **Depeondency used in project "Package.Json" :**
+    babel, babel loader, css loader, file loader, html loader, html webpack plugin,
+    node sass, sass loader, style loader, webpack, webpack cli, and webpack dev server
  
 ## Deploying
 
