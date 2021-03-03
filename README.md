@@ -41,7 +41,7 @@ Following are the project prerequisites:
  **1- in terminal/vs code install these dependncey**\
   ``` npm install ```
   
- **2- in project you must have Key from [meaningCloud] (https://www.meaningcloud.com/) for the project to run**
+ **2- in project you must have Key from [MeaningCloud](https://www.meaningcloud.com/) for the project to run**
    - in my project i used a .env file and add the key and installed  ``` npm install dotenv ```
    - in .env file add your Meaning Cloud API KEy as : 
     ``` API_KEY=************************** ``` 
