@@ -27,16 +27,12 @@ Following are the project prerequisites:
  ### Functionality
  ### File
  ### CloningRepo
- - fork 
- - Download as zip file 
- - clone 
-
-**clone in Terminal**\
-``` `git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` ```
-
-**clone in VS code command palatte**\
-```>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git ```
-
+  - ** Clone In Terminal:**\
+    ```git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
+     OR
+  - ** Clone In VS code Command Palatte:**\
+    ```>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
+       NOTE: also you can fetch or Download as zip file 
 
  ### SetUpProject
  **1- in terminal/vs code install these dependncey**\
@@ -57,7 +53,7 @@ Following are the project prerequisites:
    ``` npm run build-prod ```
  - terminal 4 (optional): to run test\
     ``` npm test ```
- 2- Lastly run the project on http://localhost:8080/ on web-broswer 
+ 2- Lastly run the project on http://localhost:8080/  or http://127.0.0.1:8080 on web-broswer 
 
  ### Depeondency 
  
